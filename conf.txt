@@ -1,0 +1,7 @@
+#
+# A sample config file for the language models 
+#
+serbian.lm			serbian
+serbian-Latn.lm			serbian-Latn
+serbian-iso8859_5.lm		serbian-iso8859_5
+serbian-Latn-iso8859_2.lm	serbian-Latn-iso8859-2
